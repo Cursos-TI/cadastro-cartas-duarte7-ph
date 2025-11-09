@@ -7,8 +7,8 @@
 int main() {
   // Área para definição das variáveis para armazenar as propriedades das cidades
   char nome[50];
-  int população, numero_de_pontos_turisticos;
-  float area_km²; PIB;
+  int população;
+  float area_km²;
  
   // Área para entrada de dados
   printf("Insira o estado: \n");
